@@ -16,7 +16,8 @@ RUN apt update && apt install -y --no-install-recommends \
     apt-utils \
     # For jupyterlab
     nodejs \
-    npm
+    npm \
+    ssh-client
     
 RUN pip3 -q install pip --upgrade
 
