@@ -17,7 +17,11 @@ RUN apt update && apt install -y --no-install-recommends \
     # For jupyterlab
     nodejs \
     npm \
-    ssh-client
+    ssh-client \
+    # for openCv
+    ffmpeg \
+    libsm6 \
+    libxext6
     
 RUN pip3 -q install pip --upgrade
 
