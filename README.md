@@ -1,6 +1,8 @@
 # Repository for course perception for autonomous systems at DTU
 
 ## For jupiter notebook
+[![Jupiter Build Status](https://dev.azure.com/s202609/Other/_apis/build/status/Build%20Jupyter%20notebook?repoName=mactat%2Fperception-for-autonomous-systems&branchName=master)](https://dev.azure.com/s202609/Other/_build/latest?definitionId=8&repoName=mactat%2Fperception-for-autonomous-systems&branchName=master)
+
 Create .env file
 In '.env' file provide those information
 ```
