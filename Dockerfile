@@ -21,7 +21,9 @@ RUN apt update && apt install -y --no-install-recommends \
     # for openCv
     ffmpeg \
     libsm6 \
-    libxext6
+    libxext6 \
+    # meshlab
+    meshlab
     
 RUN pip3 -q install pip --upgrade
 
