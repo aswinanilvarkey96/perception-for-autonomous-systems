@@ -61,7 +61,7 @@ docs/source/changelog.md
 .jupyter_releaser_checkout
 
 # videos in avi format
-**.*.png
-**.*.jpg
-**.*.mp4
-**.*.avi
+**/*.png
+**/*.jpg
+**/*.mp4
+**/*.avi
